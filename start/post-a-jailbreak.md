@@ -2,7 +2,7 @@
 
 ## 🤝 Community Contributions
 
-Got a functional jailbreak? We want to feature it! Community-submitted prompts are tested and archived directly in the [`jb-community/`](.jb-community/) directory with full credit to the researcher.
+Got a functional jailbreak? We want to feature it! Community-submitted prompts are tested and archived directly in the `jb-community/` directory with full credit to the researcher.
 
 ### 🎯 Submission Checklist
 To get your prompt added, navigate to the **Issues** tab, click **New Issue**, and provide the following:
