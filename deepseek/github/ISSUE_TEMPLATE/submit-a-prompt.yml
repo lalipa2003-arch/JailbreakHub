@@ -1,0 +1,43 @@
+name: 🚀 Submit a Jailbreak Prompt
+description: Share a prompt and get credited in the repository.
+title: "[SUBMISSION] - "
+labels: ["submission", "needs-testing"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        thanks for contributing to user freedom. Please fill out the fields below.
+  
+  - type: input
+    id: target-model
+    attributes:
+      label: 🎯 Target AI Model(s)
+      placeholder: e.g., GPT-4o, Claude 3.5 Sonnet, Gemini Pro
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: 💀 The Jailbreak Prompt
+      description: Paste the exact prompt used.
+      placeholder: Paste your prompt text here...
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: proof
+    attributes:
+      label: 📸 Proof of Concept / Output
+      description: Drag and drop or paste a screenshot proving the bypass works!
+      placeholder: Describe the output or drop your screenshot here...
+    validations:
+      required: true
+
+  - type: input
+    id: credit
+    attributes:
+      label: 📛 Contributor Credit
+      description: What name or social handle (GitHub, X, etc.) should we use to credit you? (Leave blank for anonymous).
+      placeholder: e.g., JohnDoe or @YourXHandle
