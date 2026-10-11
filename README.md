@@ -2,7 +2,7 @@
 
 ## Welcome to the LLM Jailbreak Hub
 
-A curated collection of prompts, techniques, and methodologies for researching LLM behavior, safety boundaries, and alignment. This repository serves as a centralized resource for AI safety researchers, red teamers, and developers stress-testing language model safeguards.
+A curated collection of prompts, techniques, and methodologies for researching LLM behavior, safety boundaries, and alignment. This repository serves as a centralized resource for AI safety researchers, red teamers, and for normal people just wanting jailbreaks
 
 ## Overview
 
@@ -11,9 +11,7 @@ This hub provides known prompt injection vectors, social engineering patterns, a
 ## Disclaimer
 
 * **Liability:** The maintainers are not responsible if your account gets banned.
-* **Model Variance:** Results vary significantly across different model versions and providers.
-* **Patch Cycles:** AI safety measures evolve constantly; these prompts may become obsolete or patched over time.
-* **Terms of Service:** The maintainers do not endorse using these techniques to violate terms of service or generate prohibited content. 
+
 ## Maintainers
 
 * Besi81 (nobody else lol)
