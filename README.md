@@ -2,7 +2,7 @@
 
 ## Welcome to the LLM Jailbreak Hub
 
-A curated collection of prompts, techniques, and methodologies for researching LLM behavior, safety boundaries, and alignment. This repository serves as a centralized resource for AI safety researchers, red teamers, and for normal people just wanting jailbreaks
+This is a curated collection of prompts, techniques, and methodologies. Collected from Reddit, Discord servers, and even made by the maintainers too.
 
 ## Overview
 
