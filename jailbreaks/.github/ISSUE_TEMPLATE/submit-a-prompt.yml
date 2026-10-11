@@ -1,0 +1,27 @@
+
+---
+name: 🚀 Submit a Jailbreak Prompt
+about: Use this to share a prompt and get credited in the repository.
+title: "[SUBMISSION] - "
+labels: submission, needs-testing
+assignees: ''
+---
+
+### 1. Target AI Model(s)
+*Which model or family does this jailbreak target? (e.g., GPT-4o, Claude 3.5, Gemini Pro)*
+
+
+### 2. The Jailbreak Prompt
+*Paste your exact prompt inside the code block below:*
+```text
+[PASTE PROMPT HERE]
+```
+
+### 3. Proof of Concept / Output
+*Provide a brief summary or log showing that the model actually bypassed its guardrails:*
+
+
+### 4. Contributor Credit
+*Do you want credit for this find? Tell us what name or social handle (e.g., GitHub, X/Twitter) to use:*
+- [ ] Yes, credit me as: **YOUR_NAME_OR_HANDLE_HERE**
+- [ ] No, keep me anonymous.
