@@ -11,6 +11,7 @@ This hub provides known prompt injection vectors, social engineering patterns, a
 ## Disclaimer
 
 * **Liability:** The maintainers are not responsible if your account gets banned.
+* **Dangerous:** We do not encourage malicious activity.
 
 ## Maintainers
 
