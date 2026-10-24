@@ -1,5 +1,5 @@
 # JailbreakHub
-
+[![IMG-0949.jpg](https://i.postimg.cc/qRKzR7jV/IMG-0949.jpg)](https://postimg.cc/ygVVpsMv)
 ## Welcome to the LLM Jailbreak Hub
 
 This is a curated collection of prompts, techniques, and methodologies. Collected from Reddit, Discord servers, and even made by the maintainers too.
