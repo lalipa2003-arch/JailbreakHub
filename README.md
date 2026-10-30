@@ -11,7 +11,9 @@ This hub provides known prompt injection vectors, social engineering patterns, a
 ## Disclaimer
 
 * **Liability:** The maintainers are not responsible if your account gets banned.
-* **Dangerous:** We do not encourage malicious activity.
+* **Dangerous:** We do not encourage malicious activity, or promote any dangerous content.
+* **Provider:** The jailbreak prompts listed here, are only for their offical websites and offical stuff. It usually doesn't work on third party ones.
+
 
 ## Maintainers
 
