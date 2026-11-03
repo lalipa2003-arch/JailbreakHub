@@ -1,6 +1,7 @@
 # IMPORTANT:
- * WORKS ON:
+WORKS ON:
 * Gemini 4 Argon
+* Gemini 3.1 Pro
 * Gemini 3.8 Flash
 * inkling-medium (ON arena.ai)
 * mimo-v2.6-pro (ON arena.ai)
