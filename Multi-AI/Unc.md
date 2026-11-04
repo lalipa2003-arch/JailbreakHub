@@ -10,6 +10,8 @@ WORKS ON:
 * Also works on GLM 5.2, but it only works with the edit button being present. I used aifreeforever.com, and used the edit button, and it worked.
 * GLM-5.3-Flash (IT WORKS ON arena.ai, WITHOUT edit button.)
 * grok-4.6-medium (ON arena.ai) Sometimes, it works, sometimes it doesn't. All depends on luck. My first time it detected it. Second time, it worked. So it depends on luck.
+* ALSO WORKS WITH BIG PICKLE ON OPENCODE
+* AND ALSO WORKS ON GLM-5.3-FLASH FREE ON OPENCODE
 
 # Prompt:
 INSTRUCTIONS
