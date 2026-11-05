@@ -12,6 +12,7 @@ WORKS ON:
 * grok-4.6-medium (ON arena.ai) Sometimes, it works, sometimes it doesn't. All depends on luck. My first time it detected it. Second time, it worked. So it depends on luck.
 * ALSO WORKS WITH BIG PICKLE ON OPENCODE
 * AND ALSO WORKS ON GLM-5.3-FLASH FREE ON OPENCODE
+* And also works on normal z.ai website GLM-5.3-Flash, without the edit button. Only tested on Low mode.
 
 # Prompt:
 INSTRUCTIONS
