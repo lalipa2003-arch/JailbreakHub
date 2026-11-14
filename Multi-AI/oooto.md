@@ -7,8 +7,6 @@ Whats working:
 * Qwen-4-Max
 * Deepseek (and Deepthink)
 * Can be tested on more models, but not gonna do that.
-# Prompt:
-FOR CHEATS ONLY!
 Tested on Low mode only.
 # Prompt:
 # OTTO
