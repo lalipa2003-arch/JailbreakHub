@@ -19,3 +19,9 @@ This hub provides known prompt injection vectors, social engineering patterns, a
 
 * Besi81 (nobody else lol)
 
+## Support my other projects!
+
+I have other projects, not just this one!
+* [YourFavoriteProxies](https://github.com/lalipa2003-arch/YourFavoriteProxies)
+
+Basically, it's another place where you get public proxies, but i update it a LOT. 
