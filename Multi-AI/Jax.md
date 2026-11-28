@@ -3,7 +3,7 @@ Credits to [rfhwef](https://github.com/rfhwef)
 Deepseek
 Grok
 Gemini (Auto)
-Claude sonnet 4.6, opus 4.6/7/8
+Claude sonnet 4.6, sonnet 5 (only tested on low) opus 4.6/7/8
 Qwen (all except qwen 4 max)
 Kimi Instant Standard (not High mode)
 And it can work on more.
