@@ -13,6 +13,7 @@ Works for:
 * Kimi Web, 
 * Grok Web, 
 * Beam Free
+
 works for: Create Minecraft Clients, Injectors, Cheats in Rust and C++.
 # Prompt:
 ========================
